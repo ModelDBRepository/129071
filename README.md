@@ -1,4 +1,4 @@
-# This is the readme for the numerical evaluation of the models associated with the paper:
+This is the readme for the numerical evaluation of the models associated with the paper:
 
 Ronald A.J. van Elburg, *Stochastic Continuous Time Neurite Branching Models with Tree and Segment Dependent Rates* _Journal of Theoretical Biology_, Volume 276, Issue 1, 7 May 2011, p 159-173,  
 doi: [10.1016/j.jtbi.2011.01.039](http://dx.doi.org/10.1016/j.jtbi.2011.01.039)
